@@ -53,7 +53,7 @@ void main()
 
       case 0: break;
       default:
-        printf("\nIntroduce una opción valida...");
+        printf("\nIntroduce una opciÃ³n valida...");
     }
   } while (opc != 0);
 }
